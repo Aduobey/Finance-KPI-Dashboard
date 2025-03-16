@@ -1,4 +1,4 @@
-📊 ##Financial KPI Dashboard (Power BI / Excel)
+📊Financial KPI Dashboard (Power BI / Excel)
 🔹 Project Overview
 This project is a Financial KPI Dashboard designed to help businesses track their financial performance using Power BI and Excel. It includes key metrics such as:
 ✅ Revenue & Profit Margins 📈
